@@ -17,7 +17,7 @@ As part of my internship at Unified Mentor Private Limited, I delved deep into A
 7) Conversely, the "Fruits" category experienced the lowest sales across all regions. To address this, I recommend launching marketing initiatives highlighting the freshness and quality of Amazon's fruit offerings, thereby enhancing the profit-to-cost ratio.
 
 ⚡ Quick Summary:
-💰 Total revenue: $137.35M, with $44.17M profit and $93.18M cost.\n
+💰 Total revenue: $137.35M, with $44.17M profit and $93.18M cost.
 📊 "Cosmetics" ruled as the top-selling category; "Fruits" lagged.
 📅 2012 marked the pinnacle with $31.90M in sales revenue.
 🌍 Sub-Saharan Africa topped sales at $39.67M, highlighting potential in "Office Supplies."
