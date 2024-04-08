@@ -1,4 +1,5 @@
 # Amazon-Sales-Analysis-Dashboard
+#🔹Check it out here: https://lnkd.in/dH3h_6K6
 As part of my internship at Unified Mentor Private Limited, I delved deep into Amazon's sales data, unraveling valuable insights for informed decision-making.
 🔍 Proposed Work:
 1) Data Cleaning: Conducted minor adjustments to enhance data cleanliness. Employed basic Excel functions to rectify date formatting discrepancies.
